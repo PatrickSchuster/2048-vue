@@ -1,7 +1,7 @@
 # 2048-vue
 
 My attempt at implementing `2048` in Vue.
-This is *not a bug free* implementation. I set myself a time limit of 8 hours and this is how far I made it.
+This is *not a bug free implementation*. I set myself a time limit of 8 hours and this is how far I made it.
 
 I used Vue 3, its composition API and TS.
 
