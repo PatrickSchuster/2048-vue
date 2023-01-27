@@ -5,6 +5,8 @@ This is not a bug free implementation. I set myself a trime limit of 8 hours and
 
 I used Vue 3, its composition API and TS.
 
+![Screenshot of the game board](screenshot.png "Screenshot of the game board")
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
